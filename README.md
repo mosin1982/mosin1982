@@ -4,6 +4,8 @@
 
 # Mosin Liyakat Shaikh
 
+**Also known professionally as Mosin Shaikh**
+
 ### Chief Architect & Founder — T Technology Research Lab
 
 **Agentic AI · Financial Intelligence · Business Automation · Enterprise Software**
@@ -19,7 +21,7 @@
 
 ## About Me
 
-I am **Mosin Liyakat Shaikh**, Chief Architect and Founder of **T Technology Research Lab (TTRL)**.
+I am **Mosin Liyakat Shaikh** (professionally known as **Mosin Shaikh**), Chief Architect and Founder of **T Technology Research Lab (TTRL)**.
 
 I research and architect ambitious technology systems across agentic AI, financial intelligence, business automation, data analytics, cybersecurity, and enterprise software. My approach is evidence-led, modular, and focused on turning complex ideas into practical products.
 
